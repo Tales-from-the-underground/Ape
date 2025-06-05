@@ -47,3 +47,8 @@ To be honest, we're still not certain about how that will go.
 However, probably both behaviors of voting and suggesting chapters will have a cost.
 
 The money gathered will go to the chosen chapter author's wallet.
+
+## Challenges:
+
+- Which blockchain ecosystem to use?
+- Data store on-chain
